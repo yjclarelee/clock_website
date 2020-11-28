@@ -1,4 +1,4 @@
-const time = document.querySelector("#time");
+const time = document.querySelector("h1");
 
 function padZero(num){
     // Why does it make sense that return is in the front?
